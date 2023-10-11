@@ -1,9 +1,8 @@
 # Springboot_annotations
 <div align="center">
-<img src ="https://github.com/oguzhanmavii/Springboot_annotations/assets/77650437/620ab333-32b3-44cc-9da5-b062ae8f4af0"  width="500" height="300">
+<img src ="https://github.com/oguzhanmavii/SpringBoot-annotations/assets/77650437/6b7e3815-2994-417d-b735-c2d66fbf779e"  width="500" height="300">
   <br>
-<img src="https://github.com/oguzhanmavii/Springboot_annotations/assets/77650437/d825704f-7cfa-4ef8-9947-080feb8aca46"   width="500" height="300">
+<img src="https://github.com/oguzhanmavii/SpringBoot-annotations/assets/77650437/edb1f5f4-7d15-4388-933e-c9eff206c93e"   width="500" height="300">
   <br>
-<img src="https://github.com/oguzhanmavii/Springboot_annotations/assets/77650437/40174553-b855-4703-bb2a-36a9cba53358"   width="500" height="300">
-
+<img src="https://github.com/oguzhanmavii/SpringBoot-annotations/assets/77650437/4ec2605a-e187-4604-862c-d8fd3c87907f"   width="500" height="300">
 </div> 
